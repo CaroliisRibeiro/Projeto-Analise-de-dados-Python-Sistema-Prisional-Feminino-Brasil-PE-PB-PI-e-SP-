@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Projeto : 
 ### Analise-de-dados-Python-Sistema-Prisional-Feminino-Brasil-PE-PB-PI-e-SP 
 - Projeto da {Reprograma}
@@ -75,3 +76,8 @@ Analisar a situação carceraria feminina dos estados de PE, PB,PI e SP.  Desafi
 - Microsoft Excel/CSV
 - https://convertio.co/pt/xlsx-csv/
 - Bancos de Dados Públicos(Departamento Penitenciário Nacional (Depen), Infopen - Levantamento Nacional de Informações Penitenciárias, edisciplinas USP, entre outros(vide fonte))
+=======
+# Projeto
+## Analise-de-dados-Python-Sistema-Prisional-Feminino-Brasil-PE-PB-PI-e-SP
+- projeto da {Reprograma}
+>>>>>>> a1d8785631d29bceecb44386a54064b154441e5f
