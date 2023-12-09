@@ -7,7 +7,7 @@
 ## Tema: 
 ### Análise da Infraestrutura Carcerária Feminina em Pernambuco, Paraíba, Piauí e São Paulo: Desafios e Perspectivas no Acolhimento das Mulheres Prisioneiras.
 
-![ ](2.jpeg)   
+![ ](imag-gif-video/2.jpeg)   
 
 
 ### Base de dados escolhida(original) : 
@@ -15,25 +15,25 @@
 - Tabela-3-Informações-prisionais-dos-doze-países-com-maior-população-prisional-feminina-do-mundo
 
 # Link 
-![ ](tableau.png)         
+![ ](imag-gif-video/tableau.png)         
 ## [AQUI](https://public.tableau.com/views/Projeto-Final-Reprogrma/CrcereFeminino?:language=pt-BR&:display_count=n&:origin=viz_share_link)
 
 
 
 # Link 
-![ ](23.png)          
+![ ](imag-gif-video/23.png)          
 
 ## [AQUI](https://www.canva.com/design/DAF2b4rKtoc/B4tvOIHLptXzfwTf_DO3GQ/edit?utm_content=DAF2b4rKtoc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 
 # Link 
-![ ](24.png)         
+![ ](imag-gif-video/24.png)         
 ## [AQUI](https://github.com/CaroliisRibeiro/Projeto-Analise-de-dados-Python-Sistema-Prisional-Feminino-Brasil-PE-PB-PI-e-SP-)
 
 
 ### Fonte: 
-![ ](11.gif) 
+![ ](imag-gif-video/11.gif) 
 
 - https://www.gov.br/senappen/pt-br/servicos/sisdepen 
 - https://www.gov.br/senappen/pt-br/servicos/sisdepen/bases-de-dados
@@ -81,7 +81,7 @@ Analisar a situação carceraria feminina dos estados de PE, PB,PI e SP.  Desafi
   
 ### Ferramentas utilizadas.
 
-![ ](9.gif)   
+![ ](imag-gif-video/9.gif)   
 
 - IDE Vscode
 - Linguagem Python
