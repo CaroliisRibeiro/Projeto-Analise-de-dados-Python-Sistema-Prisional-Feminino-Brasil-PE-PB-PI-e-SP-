@@ -1,19 +1,34 @@
-<<<<<<< HEAD
 # Projeto : 
 ### Analise-de-dados-Python-Sistema-Prisional-Feminino-Brasil-PE-PB-PI-e-SP 
 - Projeto da {Reprograma}
 
 
+
 ## Tema: 
 ### Análise da Infraestrutura Carcerária Feminina em Pernambuco, Paraíba, Piauí e São Paulo: Desafios e Perspectivas no Acolhimento das Mulheres Prisioneiras.
 
+![ ](2.jpeg)   
 
 
 ### Base de dados escolhida(original) : 
 - 14o-ciclo-base-de-dados-2023-1-semestre( original) - obs: Fiz um tratamento anterior da minha base de dados no proprio excel(exclui colunas que não usarei)
 - Tabela-3-Informações-prisionais-dos-doze-países-com-maior-população-prisional-feminina-do-mundo
-  
+
+# Link 
+![ ](tableau.png)         
+## [AQUI](https://public.tableau.com/views/Projeto-Final-Reprogrma/CrcereFeminino?:language=pt-BR&:display_count=n&:origin=viz_share_link)
+
+
+
+# Link 
+![ ](23.png)          
+
+## [AQUI](https://www.canva.com/design/DAF2b4rKtoc/B4tvOIHLptXzfwTf_DO3GQ/edit?utm_content=DAF2b4rKtoc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+
 ### Fonte: 
+![ ](11.gif) 
+
 - https://www.gov.br/senappen/pt-br/servicos/sisdepen 
 - https://www.gov.br/senappen/pt-br/servicos/sisdepen/bases-de-dados
 - https://www.gov.br/senappen/pt-br/servicos/sisdepen/relatorios/relipen/relipen-1-semestre-de-2023.pdf
@@ -34,9 +49,8 @@ Analisar a situação carceraria feminina dos estados de PE, PB,PI e SP.  Desafi
 ##### 2 - Berçário, Creche e Equipe de Atendimento:
 - Entender as condições e cuidados para bebês e crianças em estabelecimentos prisionais.
 - Coletar informações sobre a existência de berçário e creche.
-- Determinar a capacidade de bebês e crianças nessas instalações.
-- Verificar se há uma equipe dedicada, incluindo médico pediatra e cuidadores/as.
-
+- Determinar a capacidade 
+  
 ##### 3 - Módulo de Educação, Atendimento Psicológico e Visitas:
 - Avaliar a disponibilidade de serviços educacionais e de suporte emocional.
 - Identificar se há módulo de educação.
@@ -47,26 +61,22 @@ Analisar a situação carceraria feminina dos estados de PE, PB,PI e SP.  Desafi
 - Analisar dados demográficos e específicos sobre a população prisional.
 - Coletar informações sobre a população prisional feminina e por faixa etária.
 - Identificar a distribuição por cor/raça/etnia.
-- Determinar a quantidade de pessoas com deficiência e cadeirantes.
 
 ##### 5 - Educação, Nacionalidade e Tempo de Pena:
 - Analisar dados relacionados à educação, nacionalidade e tempo de pena.
 - Coletar informações sobre o grau de instrução da população prisional feminina.
-- Identificar a distribuição por nacionalidade.
 - Determinar a quantidade de pessoas privadas de liberdade por tempo total de penas.
 
-##### 6 - Laborterapia, Remuneração e Estudo/Trabalho:
-- Avaliar a participação em programas de laborterapia e condições de remuneração e estudo/trabalho.
-- Identificar a quantidade de pessoas em programas de laborterapia.
-- Determinar a remuneração média das pessoas privadas de liberdade.
-- Avaliar a quantidade de pessoas que trabalham e estudam simultaneamente.
 
-##### 7 - Auxílio-Reclusão e Visitas:
+##### 6 - Auxílio-Reclusão e Visitas:
 - Entender o suporte financeiro às famílias e a interação social através de visitas.
 - Determinar a quantidade de famílias que recebem auxílio-reclusão.
 - Coletar dados sobre a quantidade de visitas registradas no período de referência.
   
 ### Ferramentas utilizadas.
+
+![ ](9.gif)   
+
 - IDE Vscode
 - Linguagem Python
 - Pandas
