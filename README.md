@@ -35,12 +35,14 @@
 ### Fonte: 
 ![ ](imag-gif-video/11.gif) 
 
-- https://www.gov.br/senappen/pt-br/servicos/sisdepen 
-- https://www.gov.br/senappen/pt-br/servicos/sisdepen/bases-de-dados
-- https://www.gov.br/senappen/pt-br/servicos/sisdepen/relatorios/relipen/relipen-1-semestre-de-2023.pdf
-- https://edisciplinas.usp.br/mod/resource/view.php?id=4913895
-- http://www.susepe.rs.gov.br/upload/1588195416_SEI_MJ11429916Informao_final.pdf
-- https://edisciplinas.usp.br/pluginfile.php/7900239/mod_resource/content/1/INFOPEN%20MULHERES%202018.pdf
+- [Senappen-sisdepen](https://www.gov.br/senappen/pt-br/servicos/sisdepen )
+- [Bases-de-dados](https://www.gov.br/senappen/pt-br/servicos/sisdepen/bases-de-dados)
+- [Relipen](https://www.gov.br/senappen/pt-br/servicos/sisdepen/relatorios/relipen/relipen-1-semestre-de-2023.pdf)
+- [edisciplinas.usp.br](https://edisciplinas.usp.br/mod/resource/view.php?id=4913895 )
+- [Susepe](http://www.susepe.rs.gov.br/upload/1588195416_SEI_MJ11429916Informao_final.pdf)
+- [edisciplinas.usp.br](https://edisciplinas.usp.br/pluginfile.php/7900239/mod_resource/content/1/INFOPEN%20MULHERES%202018.pdf)
+
+
   
 ### Objetivos Gerais: 
 Analisar a situação carceraria feminina dos estados de PE, PB,PI e SP.  Desafios e Perspectivas no Acolhimento das Mulheres Prisioneiras.
@@ -89,7 +91,11 @@ Analisar a situação carceraria feminina dos estados de PE, PB,PI e SP.  Desafi
 - Nump 
 - Matplotlib
 - Seaborn
+- Tableau
+- Canva
+- Clipchamp
 - Microsoft Excel/CSV
-- https://convertio.co/pt/xlsx-csv/
+- [Bloggif](https://pt.bloggif.com/resize?id=4b9cfda4ca0f25deab930026339313b7)
+- [Convertio](https://convertio.co/pt/xlsx-csv/)
 - Bancos de Dados Públicos(Departamento Penitenciário Nacional (Depen), Infopen - Levantamento Nacional de Informações Penitenciárias, edisciplinas USP, entre outros(vide fonte))
 
